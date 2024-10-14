@@ -28,7 +28,9 @@ Prioritization: Determine the priority of the incident based on its potential im
 Investigation:
 
 Gather Evidence: Collect relevant logs, network traffic, and system information.
+
 Analyze Data: Use tools and techniques to analyze the collected data and identify the root cause of the incident.
+
 Identify Indicators of Compromise (IOCs): Look for specific signs of malicious activity, such as unusual network connections, unauthorized access attempts, or data exfiltration.
   
   4. **Containment:**
@@ -40,8 +42,11 @@ Apply Temporary Controls: Implement temporary security measures to mitigate the 
    4.**Eradication and Recovery:**
    
 Remove Malware: Identify and remove any malicious software from the affected systems.
+
 Restore Systems: Restore affected systems and data to their pre-incident state.
+
 Patch Vulnerabilities: Apply security patches to address known vulnerabilities.
+
 
    5.**Post-Incident Review:**
    
@@ -51,7 +56,7 @@ Update Incident Response Plan: Revise the incident response plan based on the le
 
 ## Learning Experience
 
-This report was created as part of the **Clicked Incident Response and Review Mini Sprint (9/23/24)**, a hands-on learning experience where participants stepped into the role of cybersecurity professionals to practice managing and mitigating security incidents.
+This report was created as part of the **Clicked Incident Response and Review Mini Sprint**, hands-on learning experience where participants stepped into the role of cybersecurity professionals to practice managing and mitigating security incidents.
 
 ### Learning Objectives:
 
