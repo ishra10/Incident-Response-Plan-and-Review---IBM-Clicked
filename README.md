@@ -62,12 +62,16 @@ This report was created as part of the **Clicked Incident Response and Review Mi
 
 This project created as a part of **Clicked Incident Response and Review Mini Sprint held on Sep-oct 2024**
 This offers a dynamic and collaborative learning journey, where participants engage in real-world business challenges within teams or accountability groups, guided by Clicked Coaches. This experience enables participants to produce tangible deliverables contributing to a comprehensive solution or recommendation, honing professional skills and gaining practical experience. 
+
 The Main objective is to :
+
 - Use **NIST Incident Response Process** to handle and mitigate simulated threats.
 - Create comprehensive post-incident reports for stakeholders.
 - Improve cybersecurity response strategies through lessons learned in a simulated environment.
+  
 **Scope**
   The main goals of the incident response Plan:  
+  
   1. To minimize the damage of the attack.
   2.To minimize the time of recovery from the attack.
   3.To create instructions and defensive measures that would prevent such attacks in the future.
